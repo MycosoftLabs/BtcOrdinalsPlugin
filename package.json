@@ -1,0 +1,15 @@
+{
+  "name": "btc-ordinals-plugin",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^13.0.0",
+    "@solana/web3.js": "^1.76.0"
+  }
+}
