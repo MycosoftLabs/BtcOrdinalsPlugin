@@ -110,7 +110,7 @@ This repository contains conceptual sample code designed to demonstrate how a Re
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/btc-ordinals-plugin/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/mycosoftlabs/btcordinalsplugin/issues) if you want to contribute.
 
 ---
 
