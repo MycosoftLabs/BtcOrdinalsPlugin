@@ -1,0 +1,17 @@
+[package]
+name = "btc_ordinals_program"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+solana-program = "1.16.0"
+solana-secp256k1-ecdsa = "0.1.0"
+thiserror = "1.0"
+num-derive = "0.3"
+num-traits = "0.2"
+
+[features]
+no-entrypoint = []
